@@ -1,0 +1,23 @@
+{
+  "name": "guizmaii.github.io",
+  "version": "1.0.0",
+  "description": "guizmaii.github.io ==================",
+  "main": "index.js",
+  "dependencies": {
+    "bricks.js": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guizmaii/guizmaii.github.io.git"
+  },
+  "author": "Jules Ivanic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guizmaii/guizmaii.github.io/issues"
+  },
+  "homepage": "https://github.com/guizmaii/guizmaii.github.io#readme"
+}
