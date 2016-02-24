@@ -86,17 +86,14 @@
     <script src="https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
     <script >
       $( document ).ready( function() {
+        var $grid = $('.grid');
+        var options = {
+          itemSelector: '.grid-item',
+          gutter: 10,
+          fitWidth: true
+        };
         twttr.ready(function() {
-          twttr.events.bind(
-            'loaded',
-            function () {
-              $('.grid').masonry({
-                itemSelector: '.grid-item',
-                gutter: 10,
-                fitWidth: true
-              });
-            }
-          );
+          twttr.events.bind('loaded', function() { $grid.masonry(options); });
         });
       });
     </script>
