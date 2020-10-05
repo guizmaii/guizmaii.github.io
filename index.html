@@ -226,14 +226,15 @@
     <script >
       // Comes from https://stackoverflow.com/a/31171096
       document.addEventListener("DOMContentLoaded", function() {
-        var $grid = $('.grid');
-        var options = {
+        const grid = document.querySelector('.grid');
+        const options = {
           itemSelector: '.grid-item',
           gutter: 50,
           fitWidth: true
         };
+
         twttr.ready(function() {
-          twttr.events.bind('loaded', function() { $grid.masonry(options); });
+          twttr.events.bind('loaded', function() { new Masonry(grid, options); });
         });
       });
     </script>
