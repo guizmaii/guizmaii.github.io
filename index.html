@@ -287,6 +287,9 @@
       <div class="grid-item">
         <blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/B6dbqpsB97">pic.twitter.com/B6dbqpsB97</a></p>&mdash; RΛMIN NΛSIBOV (@RaminNasibov) <a href="https://twitter.com/RaminNasibov/status/1360906655467253764?ref_src=twsrc%5Etfw">February 14, 2021</a></blockquote>
       </div>
+      <div class="grid-item">
+        <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Avoid boolean in your API, please<br><br>Example:<br><br>```json<br>{<br> &quot;registered&quot;: true<br>}<br>```<br><br>Prefer:<br><br>```json<br>{<br> &quot;state&quot;: &quot;REGISTERED&quot;<br>}<br>```<br><br>Where &quot;state&quot; values are a sum type:<br><br>```scala<br>sealed trait State<br>case object Registered extends State<br>case object Unregistered extends State<br>...<br>```</p>&mdash; Jules Ivanic (@guizmaii) <a href="https://twitter.com/guizmaii/status/1361456468726214657?ref_src=twsrc%5Etfw">February 15, 2021</a></blockquote>
+      </div>
     </div>
 
     <script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
