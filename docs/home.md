@@ -1,7 +1,5 @@
 # Jules Ivanic
 
-### Contact
-
-<img src="_media/twitter.png" alt="Twitter" width="15" height="15" /> [twitter.com/guizmaii](https://twitter.com/guizmaii)
-
-<img src="_media/linkedin.png" alt="Twitter" width="15" height="15" /> [linkedin.com/in/jules-ivanic/](https://www.linkedin.com/in/jules-ivanic/)
+[<img src="_media/GitHub-Mark-Light-32px.png" alt="Github" />](https://github.com/guizmaii)
+[<img src="_media/twitter.png" alt="Twitter" width="32" height="32" />](https://twitter.com/guizmaii)
+[<img src="_media/linkedin.png" alt="LinkedIn" width="37" height="32" />](https://www.linkedin.com/in/jules-ivanic/)
