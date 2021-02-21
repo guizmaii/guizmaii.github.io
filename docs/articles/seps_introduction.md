@@ -25,7 +25,7 @@ If you think that I'm wrong and/or that I can improve my practices, I'm always o
 
 Also, I'm not a native English speaker, and I'll surely not always ask someone to proof-read my articles before to publish them.   
 So, if you find a mistake in my text, if my text is not clear, etc., you're free to, either:
- - open a PR in the repo of this blog to propose a fix
+ - open a PR in the repo of this blog to propose a correction.
  - send me a feedback, via Twitter for example.     
 
 Complaining and/or being mean about that on social media, for example, only reveals how little respect you have for other people's work.
