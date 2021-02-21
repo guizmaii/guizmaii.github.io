@@ -1,2 +1,2 @@
 * [Home](/)
-* [Collective Wisdom](collective_wisdome.html)
+* [Collective Wisdom](collective_wisdom.html)
