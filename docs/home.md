@@ -1,5 +1,5 @@
 # Jules Ivanic
 
-[<img src="_media/GitHub-Mark-Light-32px.png" alt="Github" />](https://github.com/guizmaii)
-[<img src="_media/twitter.png" alt="Twitter" width="32" height="32" />](https://twitter.com/guizmaii)
-[<img src="_media/linkedin.png" alt="LinkedIn" width="37" height="32" />](https://www.linkedin.com/in/jules-ivanic/)
+[<i class="fab fa-github-square fa-3x"></i>](https://github.com/guizmaii)
+[<i class="fab fa-twitter-square fa-3x"></i>](https://twitter.com/guizmaii)
+[<i class="fab fa-linkedin fa-3x"></i>](https://www.linkedin.com/in/jules-ivanic/)
