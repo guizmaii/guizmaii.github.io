@@ -14,7 +14,7 @@ Most of, if not all of, the things I'll talk about are already existing concepts
 I just want to explain them as I'm used to explaining them.
 
 I'm not very formal in my way of explaining things.    
-My goal is to explain things in a very practical manner to give you the initial intuition, so you can immediately start to use/adopt these practices.
+My goal is to explain things in a very practical manner to give you the initial intuition so you can immediately start to use/adopt these practices.
 
 ### Disclaimer
 
