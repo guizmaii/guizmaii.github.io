@@ -2,6 +2,7 @@
 * [Collective Wisdom](https://blog.jules-ivanic.com/collective_wisdom.html)
 
 * **Blog articles**
+  * [1.0. SEPs - Introduction](articles/seps_introduction.md)
   * [0. Hello World](articles/hello_world.md)
 
 * **Talks**
