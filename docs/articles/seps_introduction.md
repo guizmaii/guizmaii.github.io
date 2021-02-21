@@ -5,7 +5,7 @@ I'd like here to start a series of relatively short blog posts (quick for me to 
 ### Why / What / How
 
 I tend to repeat the same things when I discuss and/or work with other software engineers.   
-It's time for me to write and share more globally all these concepts/hacks/advices/ideas/technics that **I consider** good practices in my job.
+It's time for me to write and share more globally all these concepts/hacks/ideas/technics that **I consider** good practices in my job.
 
 You'll see that I usually never invent anything.    
 Most of, if not all of, the things I'll talk about are already existing concepts/ideas/technics invented by smarter people. (Thank you smart people! ❤️).     
