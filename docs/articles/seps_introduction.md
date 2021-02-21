@@ -28,7 +28,7 @@ So, if you find a mistake in my text, if my text is not clear, etc., you're free
  - open a PR in the repo of this blog to propose a correction.
  - send me a feedback, via Twitter for example.     
 
-I'm always very thankful for that because it allows me to progress.
+I'm always very thankful for that because it allows me to progress.   
 Complaining and/or being mean about that on social media, for example, only reveals how little respect you have for other people's work.
 
 ### Next step
