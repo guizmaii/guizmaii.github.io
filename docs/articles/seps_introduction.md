@@ -8,7 +8,7 @@ I tend to repeat the same things when I discuss and/or work with other software 
 It's time for me to write and share more globally all these concepts/hacks/ideas/technics that **I consider** good practices in my work.
 
 You'll see that I usually never invent anything.    
-Most of, if not all of, the things I'll talk about are already existing concepts/ideas/technics invented by smarter people. (Thank you smart people! ❤️).     
+Most of, if not all of, the things I'll talk about are already existing concepts/ideas/technics invented by smarter people. (Thank you smart people! ❤️)      
 I just want to explain them as I'm used to explaining them.
 
 I'm not very formal in my way of explaining things.    
