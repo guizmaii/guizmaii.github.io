@@ -23,7 +23,7 @@ All the things that I'll explain in this series are things **I consider** good p
 You're free to disagree as much as I'm free to disagree with you.   
 If you think that I'm wrong and/or that I can improve my practices, I'm always open to respectful feedback and respectful discussions.
 
-Also, I'm not a native English speaker, and I'll surely not always bother anyone to proof-read my articles before to publish them.   
+Also, I'm not a native English speaker, and I'll surely not always ask someone to proof-read my articles before to publish them.   
 So, if you find a mistake in my text, if my text is not clear, etc., you're free to, either:
  - open a PR in the repo of this blog to propose a fix
  - send me a feedback, via Twitter for example.     
