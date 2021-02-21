@@ -1,5 +1,7 @@
 # Software Engineering Practices (SEPs) - Introduction
 
+*2021/02/21*
+
 I'd like here to start a series of relatively short blog posts (quick for me to write, quick for you to read) about the software engineering practices that I like and use.
 
 ### Why / What / How
