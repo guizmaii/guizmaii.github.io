@@ -1,2 +1,2 @@
 * [Home](/)
-* [Guide](guide.md)
+* [Collective Wisdom (slow to load)](collective_wisdome.html)
