@@ -1,6 +1,6 @@
 # Software Engineering Practices (SEPs) - Introduction
 
-I'd like here to start a series of relatively short blog posts (quick for me to write, quick for you to read) about the software engineering practices that I use and like.
+I'd like here to start a series of relatively short blog posts (quick for me to write, quick for you to read) about the software engineering practices that I like and use.
 
 ### Why / What / How
 
